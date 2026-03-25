@@ -204,4 +204,4 @@ fraudes de alto impacto detectados en el analisis anterior
 ---
 ## Conclusión Final del Proyecto
 
-El análisis integral demuestra que el fraude en tarjetas de crédito no es aleatorio, sino un proceso estructurado que incluye fases de validación técnica y ejecución oportunista. La identificación de 164 fraudes de alto impacto que suman una pérdida de $56,486.19 subraya la urgencia de migrar de una seguridad reactiva a una analítica predictiva   Este proyecto sienta las bases de datos necesarias para proteger el patrimonio institucional y la confianza del usuario final.
+El análisis integral demuestra que el fraude en tarjetas de crédito no es aleatorio, sino un proceso estructurado que incluye fases de validación técnica y ejecución oportunista. La identificación de 164 fraudes de alto impacto que suman una pérdida de $60,127.97 subraya la urgencia de migrar de una seguridad reactiva a una analítica predictiva   Este proyecto sienta las bases de datos necesarias para proteger el patrimonio institucional y la confianza del usuario final.

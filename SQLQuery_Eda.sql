@@ -134,8 +134,3 @@ SELECT
 FROM CreditCard_Final 
 WHERE Class = 1 AND Amount = 0;
 
-Se identifica un patron de 27 transacciones fraudulentas con valor nominal de cero.
-Este comportamiento no representa una perdida economica directa inmediata, pero
-constituye una fase de reconocimiento. La deteccion temprana de estas 27
-operaciones de validacion es un indicador predictivo que permitiría prevenir los 164
-fraudes de alto impacto detectados en el analisis anterior
